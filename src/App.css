@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.cardsNudiste{
+  display: flex;
+  justify-content: center;
+}
+
+*{
+  background-color: rgb(189, 178, 79)
+}
